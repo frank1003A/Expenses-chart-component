@@ -53,7 +53,7 @@ const getMax = (arr: any[], value: string) => {
   return max;
 };
 
-const renderBars = ({ data, value, label }: ChartOptions) => {
+const renderChart = ({ data, value, label }: ChartOptions) => {
   let mx = getMax(data, value);
   let renderTemplate = data.map((d) => {
     return `
@@ -71,7 +71,7 @@ const renderBars = ({ data, value, label }: ChartOptions) => {
   chart.innerHTML = renderTemplate.join("");
 };
 
-renderBars({
+renderChart({
   data: data,
   value: "amount",
   label: "day",
