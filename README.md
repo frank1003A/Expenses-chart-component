@@ -13,8 +13,6 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,8 @@ Users should be able to:
 ![](./dist/images/ecc.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/expenses-chart-component-solution-using-typescript-xQliehG9-i)
-- Live Site URL: [Add live site URL here](https://expenses-chart-component-beryl.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/expenses-chart-component-solution-using-typescript-xQliehG9-i](https://www.frontendmentor.io/solutions/expenses-chart-component-solution-using-typescript-xQliehG9-i)
+- Live Site URL: [https://expenses-chart-component-beryl.vercel.app/](https://expenses-chart-component-beryl.vercel.app/)
 
 ## My process
 
@@ -62,7 +60,7 @@ const getMax = (arr: any[], value: string) => {
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/frank-ezene-454679171/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/frank1003A)
-- Twitter - [@yourusername](https://twitter.com/FrankEzene)
+- LinkedIn - [https://www.linkedin.com/in/frank-ezene-454679171/](https://www.linkedin.com/in/frank-ezene-454679171/)
+- Frontend Mentor - [frank1003a](https://www.frontendmentor.io/profile/frank1003A)
+- Twitter - [@FrankEzene](https://twitter.com/FrankEzene)
 
