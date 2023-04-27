@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt implemented reusable functions.
+I implemented reusable functions.
 
 code snippets:
 ```js
